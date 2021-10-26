@@ -2,7 +2,7 @@
 ![GitHub license](https://img.shields.io/badge/license-ACADEMIC FREE LICENSE V3.0-blue.svg)
 
 ## Description
-create a professional readme through a command line
+creating a readme through a command line
 
 
 
@@ -19,12 +19,12 @@ create a professional readme through a command line
 Here are the installations being used
 
 ```
-npm i inquirer
+Json, Node, Javascript
 ```
 
 
 ## Usage
-Node, Javascript, Json
+npm i inquirer
 
 
 ## License
